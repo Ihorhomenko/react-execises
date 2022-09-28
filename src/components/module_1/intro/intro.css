@@ -1,0 +1,48 @@
+.intro{
+    margin: 122px 0 0 0;
+    padding: 0;
+    list-style: none;
+}
+.intro-item{
+    display: flex;
+    margin-bottom: 222px;
+}
+.intro-item:last-child{
+    margin-bottom: 0;
+}
+
+.intro-img{
+    margin-right: 125px;
+}
+
+.card-title{
+    margin-bottom: 16px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.33;
+    color: #091133;
+}
+.card-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.62;
+    color: #6F7CB2;
+}
+
+.item-card{
+    width: 445px;
+}
+.intro-btn{
+    margin-top: 44px;
+    display: block;
+    width: 150px;
+    height: 32px;
+    border-radius: 2px;
+    background: #111B47;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.71;
+    text-align: center;
+    color: #FFFFFF;
+}

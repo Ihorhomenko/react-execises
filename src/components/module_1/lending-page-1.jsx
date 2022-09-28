@@ -2,6 +2,8 @@ import { Container } from "./container/container"
 import Header from "./header/header"
 import Hero from "./hero/hero"
 import Benefits from "./benefits/benefits"
+import Intro from "./intro/intro"
+import Price from "./price/price"
 
 const Landie = () => {
     return (
@@ -9,6 +11,8 @@ const Landie = () => {
             <Header/>
             <Hero/>
             <Benefits/>
+            <Intro/>
+            <Price/>
         </Container>
         
     )
