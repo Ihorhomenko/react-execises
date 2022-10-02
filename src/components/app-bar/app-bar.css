@@ -2,8 +2,8 @@
     display: flex;
     max-width: 1420px;
     height: 50px;
-    margin-left: 25px;
-    margin-right: 25px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 15px;
     background-color: rgb(56, 107, 238);
     padding: 10px;
